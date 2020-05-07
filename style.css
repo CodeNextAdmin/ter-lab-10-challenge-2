@@ -1,11 +1,29 @@
 /* CSS files add styling rules to your content */
 
-body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+body { 
+  /*center all the elements */
+  
+  
+  
+  /* add a background image of space */
+  
+  
+  /* add a Google font declaration (don't forget to add it to index.html) */
+   
 }
 
 h1 {
-  font-style: italic;
-  color: #373fff;
+  
+  /* make this color white with a hot pink background
+  and bold text */
+  
+  
+   
 }
+
+/* Add additional rules:
+
+1. h2 should be 
+
+
+-------------------------------*/
