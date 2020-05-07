@@ -6,9 +6,7 @@ body {
   
   /* add a background image of space */
   
-  
-  /* add a Google font declaration (don't forget to add it to index.html) */
-   
+     
 }
 
 h1 {
@@ -22,10 +20,11 @@ h1 {
 
 /* Add additional rules:
 
-1. The h2 should have a background color and a different font
+1. The h2 should have a different background color and margins
 2. The image should be small: 200px width , 100px height
 3. Give the image a border of your choice
 4. Style the paragraph tag with at least 5 rules!
+5. Update the colors using inline styles (inside the index.html file)
 
 
 -------------------------------*/
