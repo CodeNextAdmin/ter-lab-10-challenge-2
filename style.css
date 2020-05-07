@@ -4,7 +4,6 @@ body {
   /*center all the elements */
   
   
-  
   /* add a background image of space */
   
   
@@ -23,7 +22,10 @@ h1 {
 
 /* Add additional rules:
 
-1. h2 should be 
+1. The h2 should have a background color and a different font
+2. The image should be small: 200px width , 100px height
+3. Give the image a border of your choice
+4. Style the paragraph tag with at least 5 rules!
 
 
 -------------------------------*/
